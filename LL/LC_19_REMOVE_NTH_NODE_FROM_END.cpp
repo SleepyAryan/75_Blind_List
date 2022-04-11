@@ -17,6 +17,6 @@ public:
     }
 };
 
-LC: O(N)
-TC: O(1)
+// LC: O(N)
+// TC: O(1)
 
