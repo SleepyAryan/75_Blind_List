@@ -14,3 +14,6 @@ https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-prob
 
 3.450 DSA:
 https://450dsa.com/
+
+This list is completed...except the problems involving Greedy and graphs
+
